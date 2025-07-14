@@ -1,13 +1,13 @@
 package com.bits_pilani;
 
 /**
- * Hello world!
+ * Hello Anik!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello Anik!" );
     }
 }
